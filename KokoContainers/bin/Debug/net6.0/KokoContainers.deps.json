@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KokoContainers/1.0.0": {
+        "dependencies": {
+          "ObservableDictionary_By_Koko": "1.3.0"
+        },
+        "runtime": {
+          "KokoContainers.dll": {}
+        }
+      },
+      "ObservableDictionary_By_Koko/1.3.0": {
+        "runtime": {
+          "lib/net6.0/ObservableDictionary.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KokoContainers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObservableDictionary_By_Koko/1.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X+OMERMTnbOlV9CBzFoOs0PadYpr9q4tKvPNdcIafWRLKuCPpNIzkx0kp8/L4y8dnHvXf5aKo0/CaKNz8+qVgg==",
+      "path": "observabledictionary_by_koko/1.3.0",
+      "hashPath": "observabledictionary_by_koko.1.3.0.nupkg.sha512"
+    }
+  }
+}

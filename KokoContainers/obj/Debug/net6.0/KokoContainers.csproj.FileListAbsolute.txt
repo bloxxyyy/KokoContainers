@@ -1,0 +1,12 @@
+C:\Users\mnnop\source\repos\KokoContainers\KokoContainers\bin\Debug\net6.0\KokoContainers.deps.json
+C:\Users\mnnop\source\repos\KokoContainers\KokoContainers\bin\Debug\net6.0\KokoContainers.dll
+C:\Users\mnnop\source\repos\KokoContainers\KokoContainers\bin\Debug\net6.0\KokoContainers.pdb
+C:\Users\mnnop\source\repos\KokoContainers\KokoContainers\obj\Debug\net6.0\KokoContainers.csproj.AssemblyReference.cache
+C:\Users\mnnop\source\repos\KokoContainers\KokoContainers\obj\Debug\net6.0\KokoContainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnnop\source\repos\KokoContainers\KokoContainers\obj\Debug\net6.0\KokoContainers.AssemblyInfoInputs.cache
+C:\Users\mnnop\source\repos\KokoContainers\KokoContainers\obj\Debug\net6.0\KokoContainers.AssemblyInfo.cs
+C:\Users\mnnop\source\repos\KokoContainers\KokoContainers\obj\Debug\net6.0\KokoContainers.csproj.CoreCompileInputs.cache
+C:\Users\mnnop\source\repos\KokoContainers\KokoContainers\obj\Debug\net6.0\KokoContainers.dll
+C:\Users\mnnop\source\repos\KokoContainers\KokoContainers\obj\Debug\net6.0\refint\KokoContainers.dll
+C:\Users\mnnop\source\repos\KokoContainers\KokoContainers\obj\Debug\net6.0\KokoContainers.pdb
+C:\Users\mnnop\source\repos\KokoContainers\KokoContainers\obj\Debug\net6.0\ref\KokoContainers.dll

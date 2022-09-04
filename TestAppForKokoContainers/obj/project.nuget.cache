@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vQ2atFA8Me2fRx17/QYJW07zKTREFFaw3ka3PMVSCa9kdDst+LzlQjBOuN+qxrPJzp45+KunR512vJFzN7fSlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mnnop\\source\\repos\\KokoContainers\\TestAppForKokoContainers\\TestAppForKokoContainers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mnnop\\.nuget\\packages\\observabledictionary_by_koko\\1.3.0\\observabledictionary_by_koko.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
